@@ -562,7 +562,7 @@ class PlayState extends MusicBeatState
 		                            add(waveSpriteFG);
 		                    */
 		          }
-		          case 'accelerant':
+		          case 'murderface' | 'mercenary' | 'assassination':
 
 			{
 
